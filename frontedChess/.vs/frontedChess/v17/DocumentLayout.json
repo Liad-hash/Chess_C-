@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF750B9-8D12-4F22-92E7-399BA4265275}|frontedChess.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FF750B9-8D12-4F22-92E7-399BA4265275}|frontedChess.vcxproj|solutionrelative:board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF750B9-8D12-4F22-92E7-399BA4265275}|frontedChess.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FF750B9-8D12-4F22-92E7-399BA4265275}|frontedChess.vcxproj|solutionrelative:board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF750B9-8D12-4F22-92E7-399BA4265275}|frontedChess.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\Piece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FF750B9-8D12-4F22-92E7-399BA4265275}|frontedChess.vcxproj|solutionrelative:Piece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF750B9-8D12-4F22-92E7-399BA4265275}|frontedChess.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FF750B9-8D12-4F22-92E7-399BA4265275}|frontedChess.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF750B9-8D12-4F22-92E7-399BA4265275}|frontedChess.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\bishop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FF750B9-8D12-4F22-92E7-399BA4265275}|frontedChess.vcxproj|solutionrelative:bishop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF750B9-8D12-4F22-92E7-399BA4265275}|frontedChess.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FF750B9-8D12-4F22-92E7-399BA4265275}|frontedChess.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF750B9-8D12-4F22-92E7-399BA4265275}|frontedChess.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\King.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FF750B9-8D12-4F22-92E7-399BA4265275}|frontedChess.vcxproj|solutionrelative:King.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF750B9-8D12-4F22-92E7-399BA4265275}|frontedChess.vcxproj|C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FF750B9-8D12-4F22-92E7-399BA4265275}|frontedChess.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bishop.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\bishop.cpp",
+              "RelativeDocumentMoniker": "bishop.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\bishop.cpp",
+              "RelativeToolTip": "bishop.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-05T16:30:57.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "King.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\King.cpp",
+              "RelativeDocumentMoniker": "King.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\King.cpp",
+              "RelativeToolTip": "King.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-05T16:30:56.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Piece.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\Piece.cpp",
+              "RelativeDocumentMoniker": "Piece.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\Piece.cpp",
+              "RelativeToolTip": "Piece.cpp",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAHEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-05T15:18:37.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "board.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\board.h",
+              "RelativeDocumentMoniker": "board.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\board.h",
+              "RelativeToolTip": "board.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-04T19:53:40.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-04T19:20:37.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "board.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\board.cpp",
+              "RelativeDocumentMoniker": "board.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\board.cpp",
+              "RelativeToolTip": "board.cpp",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAIIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-04T19:17:44.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-04T19:06:43.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\magshimim\\11 grade\\C\u002B\u002B\\Week7_Liad\\Chess_CPP\\frontedChess\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAtwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-04T18:53:30.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
